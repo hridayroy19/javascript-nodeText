@@ -1,0 +1,13 @@
+         parsefloat : hoice kuno string type variable ke number a convart kor 
+
+ var num = '50';
+var num2 = 20;
+
+num = parseFloat(num);
+sum = num + num2
+ 
+console.log(sum);
+
+
+
+parseint: mulot dacilam sonkha nibe na sudu purno sonkha ke nibeee 15.255 { poniter pore dhorbene but parseflot ponter por sonkha nibee}

@@ -1,0 +1,20 @@
+        * math-operator 
+
+
+       Operator	 Description
+
+       +	Addition           let x = 100 + 50;   ans:150
+
+       -	Subtraction        let x = 100 - 50;    ans: 50
+ 
+       *	Multiplication      let x = 100 - 50;    ans: 5000
+
+       **	Exponentiation      (ES2016) let x = 7; innerHTML = x ** 2;  ans:49
+
+       /	Division             let x = 100 / 50;    ans: 2
+
+       %	Modulus (Remainder)     vagses thakbeee
+
+       ++	Increment              1 barbe
+
+       --	Decrement               1 kore kombe

@@ -1,0 +1,41 @@
+*type of variable                javascript
+
+ Number:
+ var age = 25;
+ var price = 12.99;
+
+ String:
+ var name = "John";
+ var message = "Hello, world!";
+
+ Boolean:
+ var isStudent = true;
+ var hasPermission = false;
+
+
+Object:
+var person = {
+  firstName: "Alice",
+  lastName: "Johnson",
+  age: 30
+};
+
+
+Array:
+var colors = ["red", "green", "blue"];
+var numbers = [1, 2, 3, 4, 5];
+
+
+Function:
+function greet(name) {
+  console.log("Hello, " + name + "!");
+}
+
+
+Null:
+var noValue = null;
+
+
+
+Symbol:
+var uniqueKey = Symbol("description");

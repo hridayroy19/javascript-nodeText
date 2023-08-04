@@ -1,0 +1,12 @@
+
+
+primitive data type           none primitive    
+                                   objcet  
+Number
+String                  
+Boolean
+Undefined
+Null
+Object
+Symbol
+
