@@ -1,0 +1,10 @@
+
+
+
+const emptyArray = [];
+
+// Array with initial values
+const numbers = [1, 2, 3, 4, 5];
+
+// Array with mixed data types
+const mixedArray = [1, "two", true, null, { key: "value" }];

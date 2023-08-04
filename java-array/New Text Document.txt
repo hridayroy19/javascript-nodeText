@@ -1,0 +1,16 @@
+
+
+       * array nichi arry nam diye joto namber index die name
+       change korbo oita value change hoye jabe r value 0 diy suru hoi
+
+
+
+    const fruits = ["apple", "banana", "orange", "grape"]; 
+ 
+     fruits[1] = "cherry";
+
+  console.log(fruits); 
+
+
+       Outputs: ["apple", "cherry", "orange", "grape"]
+                        change{banna}

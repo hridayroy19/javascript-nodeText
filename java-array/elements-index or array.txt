@@ -1,0 +1,11 @@
+         array elemnts index :   
+
+const fruits = ["apple", "banana", "orange", "grape"];
+                    1        2         3         4
+
+
+          or value index :
+
+            const fruits = ["apple", "banana", "orange", "grape"];
+                              0         1          2         3        
+
